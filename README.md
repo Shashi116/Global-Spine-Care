@@ -19,7 +19,6 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 
 
-## Deployment
 
 
 # Global-Spine-Care
